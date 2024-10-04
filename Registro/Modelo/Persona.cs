@@ -16,6 +16,7 @@ namespace Registro.Modelo
         public void CalcularEdad()
         {
             this.Age= DateTime.Now.Year - this.BirthDate.Year;
+            if (DateTime.Now.DayOfYear < this.BirthDate.DayOfYear) this.Age-=1;
         }
     }
 }

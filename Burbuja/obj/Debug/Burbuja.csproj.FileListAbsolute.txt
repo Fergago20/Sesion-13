@@ -8,3 +8,13 @@ C:\Users\labc205\Documents\Sesion 13\Burbuja\obj\Debug\Burbuja.csproj.GenerateRe
 C:\Users\labc205\Documents\Sesion 13\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
 C:\Users\labc205\Documents\Sesion 13\Burbuja\obj\Debug\Burbuja.exe
 C:\Users\labc205\Documents\Sesion 13\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.Form1.resources
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.Properties.Resources.resources
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Burbuja\obj\Debug\Burbuja.pdb

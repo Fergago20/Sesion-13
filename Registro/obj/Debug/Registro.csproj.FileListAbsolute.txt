@@ -8,3 +8,13 @@ C:\Users\labc205\Documents\Sesion 13\Registro\obj\Debug\Registro.csproj.Generate
 C:\Users\labc205\Documents\Sesion 13\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
 C:\Users\labc205\Documents\Sesion 13\Registro\obj\Debug\Registro.exe
 C:\Users\labc205\Documents\Sesion 13\Registro\obj\Debug\Registro.pdb
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\bin\Debug\Registro.exe.config
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\bin\Debug\Registro.exe
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\bin\Debug\Registro.pdb
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.Form1.resources
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.exe
+C:\Users\Dell\Documents\Arreglos\Sesion-13\Registro\obj\Debug\Registro.pdb

@@ -22,27 +22,27 @@ namespace Burbuja
 
         private void btmAgregar_Click(object sender, EventArgs e)
         {
+           
             int number = int.Parse(tbNumber.Text);
             numbers[i++]=number;
-            ShowNumber();
+            ShowNumber(numbers);
         }
-        private void ShowNumber()
+        private void ShowNumber(int[]num)
         {
-            if(numbers.Length > 0)
-            {
                 lbLista.Items.Clear();
-            }
-            for (int i = 0;i< numbers.Length; i++)
+            for (int j = 0;j< num.Length; j++)
             {
-                lbLista.Items.Add(numbers[i]);
+                lbLista.Items.Add(num[j]);
             }
         }
 
         private void btmOrdenar_Click(object sender, EventArgs e)
         {
             MetBurbuja bur = new MetBurbuja();
-            bur.OrdenarBurbuja(numbers);
-            ShowNumber();
+            int[] orden = null;
+            orden = (int []) numbers.Clone();
+            bur.OrdenarBurbuja(orden);
+            ShowNumber(orden);
         }
     }
 }
